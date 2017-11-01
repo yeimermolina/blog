@@ -83,6 +83,13 @@ DATABASES = {
 }
 
 
+EMAIL_HOST = 'smtp.gmail.com'
+EMAIL_HOST_USER = 'yeimer.molina@gmail.com'
+EMAIL_HOST_PASSWORD = 'Yeimergabriel12'
+EMAIL_PORT = 587
+EMAIL_USE_TLS = True
+
+
 # Internationalization
 # https://docs.djangoproject.com/en/1.8/topics/i18n/
 
