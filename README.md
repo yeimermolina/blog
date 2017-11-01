@@ -1,1 +1,1 @@
-mysite
+#Blog Project Made with Django
